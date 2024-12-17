@@ -15,3 +15,11 @@ Here, I am going to show that how to handle web elements such as Checkboxes, Lin
    Output 1:
 
  <img width="871" alt="Screenshot 2024-12-16 233122" src="https://github.com/user-attachments/assets/817e3ea0-bf2c-49de-8a52-836e974c78e5" />
+
+
+3. Broken Links:
+
+   Output 1:
+
+
+<img width="899" alt="Screenshot 2024-12-17 200535" src="https://github.com/user-attachments/assets/7803db45-dbe4-4b07-af76-6fdc8df7af9e" />
